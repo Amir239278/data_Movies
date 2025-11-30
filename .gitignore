@@ -1,6 +1,40 @@
-Episodes.ipynb
-Test ML.py
-Essai.ipynb
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Environnements virtuels
+venv/
+env/
+ENV/
+.venv
 mon_env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+Episodes.ipynb
+Essai.ipynb
+
+# Fichiers de test
+Test ML.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Données volumineuses (optionnel - décommentez si nécessaire)
+# datasets/raw/*.pkl
+# datasets/raw/*.csv
+
+# Logs
+*.log

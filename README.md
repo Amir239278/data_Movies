@@ -1,4 +1,28 @@
-# 🎬 Moviestar App
+# 🎬 Moviestar App - Système de Recommandation de Films
+
+> Application web intelligente de recommandation de films utilisant le Machine Learning (KNN) pour suggérer des films personnalisés
+
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.45+-red.svg)](https://streamlit.io/)
+[![Machine Learning](https://img.shields.io/badge/ML-KNN-FF6F00.svg)](https://scikit-learn.org/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+**🔗 Lien du projet :** [GitHub](https://github.com/Amir239278/moviestar-app)
+
+---
+
+## 👔 Pour les Recruteurs
+
+Ce projet démontre mes compétences en :
+- **Machine Learning** : Implémentation d'un système de recommandation avec K-Nearest Neighbors (KNN)
+- **Data Science** : Analyse et traitement de données de films (10K+ films)
+- **Développement Web** : Application interactive avec Streamlit et interface moderne
+- **Feature Engineering** : Préparation et transformation des données pour le ML
+- **Optimisation** : Mise en cache, compression des données pour des performances optimales
+
+**Technologies maîtrisées :** Python, Pandas, scikit-learn, KNN, Streamlit, Joblib, Data Processing
+
+---
 
 ![Moviestar Logo](streamlit_app/assets/moviestar2.png)
 
@@ -94,7 +118,28 @@ L'application peut être déployée sur n'importe quelle plateforme supportant S
 - AWS/GCP/Azure
 - Docker
 
-## 👥 Auteurs / Contributeurs
+## 📈 Résultats & Métriques
+
+- **Base de données** : Plus de 10 000 films
+- **Performance** : Temps de chargement moyen < 2 secondes
+- **Algorithme** : K-Nearest Neighbors (KNN) pour recommandations
+- **Précision** : Recommandations basées sur similarité de contenu et filtrage collaboratif
+
+## 🎯 Points Forts du Projet
+
+✅ **Production-Ready** : Application fonctionnelle et déployable  
+✅ **ML-Powered** : Système de recommandation intelligent avec KNN  
+✅ **User-Friendly** : Interface moderne et intuitive  
+✅ **Optimisé** : Mise en cache et compression pour performances optimales  
+✅ **Scalable** : Architecture modulaire et extensible
+
+## 👤 Auteur
+
+**Amir Meraka** - [@Amir239278](https://github.com/Amir239278)
+
+💼 **Disponible pour des opportunités en Data Science / Machine Learning**
+
+## 👥 Contributeurs
 
 Un grand merci à tous les contributeurs qui ont participé à ce projet :
 
