@@ -7,7 +7,7 @@
 [![Machine Learning](https://img.shields.io/badge/ML-KNN-FF6F00.svg)](https://scikit-learn.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**🔗 Lien du projet :** [GitHub](https://github.com/Amir239278/moviestar-app)
+**🔗 Lien du projet :** [GitHub](https://github.com/Amir239278/data_Movies)
 
 ---
 
@@ -65,8 +65,8 @@ Bienvenue dans **Moviestar App**, une application web de recommandation de films
 
 1. **Cloner le dépôt** :
    ```bash
-   git clone https://github.com/jbhdev/data-films.git
-   cd data-films
+   git clone https://github.com/Amir239278/data_Movies.git
+   cd data_Movies
    ```
 
 2. **Créer un environnement virtuel** (recommandé) :
